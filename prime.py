@@ -8,3 +8,4 @@ def prime(num):
                 return "false"
         return "true"
 print (prime(9))
+ 
